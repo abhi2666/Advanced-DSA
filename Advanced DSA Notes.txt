@@ -1,0 +1,4 @@
+Class 1 -- 
+
+If remainder is negative... add the divisor to it. That will give you the 
+remainder.
