@@ -36,7 +36,7 @@ class Coins
         while(V)
         {
             //find changes starting from the last element of the vector
-            if(V = changes[n])
+            if(V == changes[n])
             {
                 ans.push_back(changes[n]);
                 return ans;
